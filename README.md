@@ -19,7 +19,7 @@ The goal is to build a consistent habit of solving DSA problems and use this rep
 ## 📂 Structure
 
 Solutions are organized like this:
-
+```
 DSA-Practice/
 │
 ├── HackerRank/
@@ -31,7 +31,7 @@ DSA-Practice/
 ├── Easy/
 ├── Medium/
 └── Hard/
-
+```
 
 ---
 
