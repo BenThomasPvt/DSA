@@ -7,7 +7,7 @@ if __name__ == '__main__':
     n = int(first_multiple_input[0])
     d = int(first_multiple_input[1])
 
-    arr = list(map(int, input(f"Enter {n} integers separated by space: ").rstrip().split()))
+    arr = list(map(int, input(f"Enter {n} integers separated by space: ").rstcdrip().split()))
 
     result = rotateLeft(d, arr)
 
